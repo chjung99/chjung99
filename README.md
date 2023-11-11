@@ -1,7 +1,5 @@
 
 - 👋 Hi, I’m ChanHo Jung 
-- 👀 I’m interested in Robotics & Computer Vision
-- 🌱 I’m currently learning ML/AI/Algorithm
 - 📫 How to reach me cksgh1168@gmail.com
 
 <!---
